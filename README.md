@@ -53,3 +53,33 @@ The best outcome would be to also add a happiness meter into the game.
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 I will need to learn how to use Ren'Py to implement my game. I will need to research how to code something like an experience bar into the game.
+
+# Status Report
+
+#### Your name
+
+Michelle Liang
+
+#### Your section leader's name
+
+N/A
+
+#### Project title
+
+Tamacatchi
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I have started making the cat story on Ren'Py.
+
+#### What have you not done for your project yet?
+
+I have not yet added the features, such as food, play, and sleep.
+
+#### What problems, if any, have you encountered?
+
+I have not run into any problems so far.
