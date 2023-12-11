@@ -90,10 +90,10 @@ def main():
     cat()
 
     menuOptions = {"A": {"function": petCat, "text": "Give " + pet["name"] + " some nice pets"},
-                   "F": {"function": feedCat, "text": "Feed " + pet["name"] + " a yummy treat"},
-                   "P": {"function": playCat, "text": "Play with " + pet["name"]},
-                   "S": {"function": sleepCat, "text": "Tell " + pet["name"] + " to sleep"},
-                   "G": {"function": getAttributes, "text": "Unlock new attributes for " + pet["name"]},
+                   "B": {"function": feedCat, "text": "Feed " + pet["name"] + " a yummy treat"},
+                   "C": {"function": playCat, "text": "Play with " + pet["name"]},
+                   "D": {"function": sleepCat, "text": "Tell " + pet["name"] + " to sleep"},
+                   "E": {"function": getAttributes, "text": "Unlock new attributes for " + pet["name"]},
                    "Q": {"function": quitSimulator, "text": "Quit Tamacatchi"}}
 
     keepPlaying = True
