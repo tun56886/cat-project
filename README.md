@@ -83,3 +83,12 @@ I have not yet added the features, such as food, play, and sleep.
 #### What problems, if any, have you encountered?
 
 I have not run into any problems so far.
+
+# Update
+
+Overall, I really enjoyed making this cat simulation game. I believe that it pushed me to compile everything I learned this year in 1051 in order to create a game. Furthermore, I learned how to create menu options that gives the player a variety of outcomes depending on the selection. I also learned how to create a hunger and sleepiness tracker in the game for the cat. I faced many difficulties during my final project, the main one being Ren'Py. I had initially began coding my project on Ren'Py, however it crashed on me through the project and I was unable to recover my code, nor reopen Ren'Py. I tried uninstalling Ren'Py and reinstalling to troubleshoot the problem, but it would not reopen itself. I ended up restarting my cat simulation with the same features on Python IDLE Editor, just without the visual aspects. Although I am disappointed that I was not able to incorporate pictures into my game, I am proud that I accomplished a working cat game simulation that includes most of the features I originally wanted. Another difficulty I had was figuring out how to create a list of different options, depending on the option that the user picks in the game. I was struggling to get the code to run so that each cat in the game would have its own set of attributes to pick from. I was able to find help through Juni Learning, a Python learning website, because of the tips that they offered in order to solve the problems that I was having. One problem that I attempted to solve in my game that I was ultimately unable to was getting the hunger and sleepiness meters to not exceed 100. I was able to figure out how to get them to not drop below 0, but I could not figure out how to keep it from going over 100. In the end, I am happy with the resulting product and hope that it brings happiness to whoever plays it!
+
+# Video Link
+
+https://www.youtube.com/watch?v=URLDBGIZV2g
+
